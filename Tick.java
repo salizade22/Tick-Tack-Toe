@@ -1,7 +1,7 @@
 /*
  CS 111
 Final Project
-Shakhzod Ali-zade
+@Author: Shakhzod Ali-zade
 */
 import java.util.*;
 public class Tick {
