@@ -7,3 +7,4 @@
  
  To place a figure enter the coordinates (row and column) of the cell you want to place a figure in. For example, if you want to place a figure in the lower left corner (3rd row 3rd column) enter 3 3.
  What's your move? 
+ ![Console Simple](https://github.com/salizade22/Tick-Tack-Toe/blob/master/Screenshot-12.png)
